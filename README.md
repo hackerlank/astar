@@ -1,0 +1,4 @@
+astar
+=====
+
+Minimal A* implementation
